@@ -1,2 +1,2 @@
 # sysmo
-Super Completo Monitor de sistema para Linux 
+Monitor avanzado del sistema con análisis predictivo y alertas
